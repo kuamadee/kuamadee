@@ -1,12 +1,12 @@
 # Portfolio
 
-- [About me](https://github.com/kuamadee/my_portfolio#about-me)
+- [About me](https://github.com/kuamadee/kuamadee/edit/main/README.md#about-me)
 - [CV](https://github.com/kuamadee/my_portfolio#cv)
 - [Skills](https://github.com/kuamadee/my_portfolio#skills)
     - [Technical Skills](https://github.com/kuamadee/my_portfolio#technical-skills)
     - [Tools](https://github.com/kuamadee/my_portfolio#tools)
     - [Soft skills](https://github.com/kuamadee/my_portfolio#soft-skills)
-- [Example of my works]
+- [Example of my works](https://github.com/kuamadee#example-of-my-works)
     - [Test cases and Test scenarios]
     - [Bug report works in JIRA]
     - [Testing API created for educational purposes]
