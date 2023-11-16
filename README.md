@@ -37,7 +37,7 @@ You can find [example of my works](https://github.com/kuamadee/kuamadee#example-
 - can write [test cases and test scenarios](https://github.com/kuamadee/kuamadee#test-cases-and-test-scenarios)
 - can perform functional tests for web and mobile applications
 - can identify defects, and prepare report to the development team for resolution
-- understand black-box concept and able to perform in any project
+- understand [black-box concept](https://github.com/kuamadee/kuamadee#test-cases-and-test-scenarios) and able to perform in any project
 
 **API Testing**
 
