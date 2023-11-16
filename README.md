@@ -1,16 +1,16 @@
 # Portfolio
 
-- [About me]
-- [CV]
-- [Skills]
-    - [Technical Skills]
-    - [Tools]
-    - [Soft skills]
-- [Example of my works]
-    - [Test cases and Test scenarios]
-    - [Bug reports and work in JIRA]
-    - [API testing project using Postman]
-    - [Mindmaps and diagrams]
+- [About me](https://github.com/kuamadee#about-me)
+- [CV](https://github.com/kuamadee#cv)
+- [Skills](https://github.com/kuamadee#skills)
+    - [Technical Skills](https://github.com/kuamadee#technical-skills)
+    - [Tools](https://github.com/kuamadee#tools)
+    - [Soft skills](https://github.com/kuamadee#soft-skills)
+- [Example of my works](https://github.com/kuamadee#example-of-my-works)
+    - [Test cases and Test scenarios](https://github.com/kuamadee#test-cases-and-test-scenarios)
+    - [Bug reports and work in JIRA](https://github.com/kuamadee#bug-reports-and-work-in-jira)
+    - [API testing project using Postman](https://github.com/kuamadee#api-testing-project-using-postman)
+    - [Mindmaps and diagrams](https://github.com/kuamadee#mindmaps-and-diagrams)
 
 # About me
 
