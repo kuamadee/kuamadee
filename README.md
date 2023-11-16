@@ -28,13 +28,13 @@ Download my CV [as a PDF here.](https://www.canva.com/design/DAFuSrEb0K8/VkzdCeR
 
 # Skills
 
-You can find [example of my works] and explanation about the projects
+You can find [example of my works](https://github.com/kuamadee/kuamadee#example-of-my-works) and explanation about the projects
 
 ## Technical skills
 
 **Manual Testing**
 
-- can write [test cases and test scenarios]
+- can write [test cases and test scenarios](https://github.com/kuamadee/kuamadee#test-cases-and-test-scenarios)
 - can perform functional tests for web and mobile applications
 - can identify defects, and prepare report to the development team for resolution
 - understand black-box concept and able to perform in any project
