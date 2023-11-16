@@ -78,10 +78,6 @@ You can find [example of my works](https://github.com/kuamadee/kuamadee#example-
 
 - understand kanban board and track project process
 
-## Soft skills
-
-- 
-
 # Example of my works
 
 ### Test cases and Test scenarios
