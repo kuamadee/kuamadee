@@ -5,7 +5,6 @@
 - [Skills](https://github.com/kuamadee#skills)
     - [Technical Skills](https://github.com/kuamadee#technical-skills)
     - [Tools](https://github.com/kuamadee#tools)
-    - [Soft skills](https://github.com/kuamadee#soft-skills)
 - [Example of my works](https://github.com/kuamadee#example-of-my-works)
     - [Test cases and Test scenarios](https://github.com/kuamadee#test-cases-and-test-scenarios)
     - [Bug reports and work in JIRA](https://github.com/kuamadee#bug-reports-and-work-in-jira)
