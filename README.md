@@ -24,7 +24,7 @@ I would be extremely happy to apply obtained knowledge to testing an operational
 
 # CV
 
-Download my CV [as a PDF here.]
+Download my CV [as a PDF here.](https://www.canva.com/design/DAFuSrEb0K8/VkzdCeRW5huPFZcjR17lJg/edit?utm_content=DAFuSrEb0K8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # Skills
 
