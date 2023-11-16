@@ -104,5 +104,4 @@ You can find [example of my works] and explanation about the projects
 - APIs created for educational purposes like [JSONplaceholder](https://jsonplaceholder.typicode.com/) and REQRES [check the PDF](https://drive.google.com/file/d/1qFSp3OYBziaZmQ2GbLqK1yNdTKi5YGZv/view?usp=drive_link)
 
 ### Mindmaps and diagrams
-
--
+- Activity Diagram use-case of Vending Machine. check the image
