@@ -82,9 +82,9 @@ You can find [example of my works](https://github.com/kuamadee/kuamadee#example-
 ### Test cases and Test scenarios
 
 - Test case writing working with Google sheet
-    - Test case for testing login page. [Check the Google sheet here](https://docs.google.com/spreadsheets/d/1Aygei39xarpsRjKmj53MEyEEOI8mDxm2_uO9I0f9a4o/edit?usp=sharing)
-    - Test case for testing register page. Check the Google sheet here
-    - black box testing techniques for a system that calculates the term's deposit interest. [Check the Google sheet here](https://docs.google.com/spreadsheets/d/1lL82MaxnvUuGZPZyfk9rOsZzQdSMdGCj0J-FRQRILSk/edit?usp=sharing)
+    - Test case for testing login page. [check the Google sheet here](https://docs.google.com/spreadsheets/d/1Aygei39xarpsRjKmj53MEyEEOI8mDxm2_uO9I0f9a4o/edit?usp=sharing)
+    - Test case for testing register page. [check the Google sheet here]
+    - black box testing techniques for a system that calculates the term's deposit interest. [check the Google sheet here](https://docs.google.com/spreadsheets/d/1lL82MaxnvUuGZPZyfk9rOsZzQdSMdGCj0J-FRQRILSk/edit?usp=sharing)
 
 ### Bug reports and work in JIRA
 
@@ -97,9 +97,11 @@ You can find [example of my works](https://github.com/kuamadee/kuamadee#example-
 ### API testing project using Postman
 
 - APIs created for educational purposes like [JSONplaceholder](https://jsonplaceholder.typicode.com/) and REQRES [check the PDF](https://drive.google.com/file/d/1qFSp3OYBziaZmQ2GbLqK1yNdTKi5YGZv/view?usp=drive_link)
+- practice testing GitHub API [check the PDF]
 
 ### Mindmaps and diagrams
 - use-case diagram of Vending Machine. [check the image](https://drive.google.com/file/d/1BTqLp-PzgrVgZt2_eWzmibwT0d2lMupQ/view?usp=drive_link)
 - activity diagram of Vending Machine.[check the image](https://drive.google.com/file/d/1mB7kaYIBPXPyH-r9Mw6XbIkK_tuyxKzs/view?usp=drive_link)
 - sequence diagram of login system. [check the image]
 - Flow chart of stock taking for retail department. [check the image]
+- ativity diagram of pre-production team. [check the image]
