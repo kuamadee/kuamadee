@@ -27,7 +27,7 @@ Download my CV [as a PDF here.](https://www.canva.com/design/DAFuSrEb0K8/VkzdCeR
 
 # Skills
 
-You can find [example of my works](https://github.com/kuamadee/kuamadee#example-of-my-works) and explanation about the projects
+You can find [example of my works](https://github.com/kuamadee#example-of-my-works) and explanation about the projects
 
 ## Technical skills
 
