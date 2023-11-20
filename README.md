@@ -83,7 +83,7 @@ You can find [example of my works](https://github.com/kuamadee#example-of-my-wor
 
 - Test case writing working with Google sheet
     - Test case for testing login page. [check the Google sheet here](https://docs.google.com/spreadsheets/d/1Aygei39xarpsRjKmj53MEyEEOI8mDxm2_uO9I0f9a4o/edit?usp=sharing)
-    - Test case for testing register page. [check the Google sheet here]
+    - Test case for testing register page. [check the Google sheet here](https://docs.google.com/spreadsheets/d/1PCMjjgeMmrfKmxsvycbvRTW6FhYuEuNdz_3xUzlHEs8/edit?usp=sharing)
     - black box testing techniques for a system that calculates the term's deposit interest. [check the Google sheet here](https://docs.google.com/spreadsheets/d/1lL82MaxnvUuGZPZyfk9rOsZzQdSMdGCj0J-FRQRILSk/edit?usp=sharing)
 
 ### Bug reports and work in JIRA
