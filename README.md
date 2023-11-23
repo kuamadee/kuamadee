@@ -33,21 +33,30 @@ You can find [example of my works](https://github.com/kuamadee#example-of-my-wor
 
 **Manual Testing**
 
-- can write test cases and test scenarios
-- can perform functional tests for web and mobile applications
-- can identify defects, and prepare report to the development team for resolution
-- understand black-box concept and able to perform in any project
+- can write test cases and test scenarios.
+- can perform functional tests for web and mobile applications.
+- can identify defects, and prepare report to the development team for resolution.
+- understand black-box concept and able to perform in any project.
 
-**API Testing**
+**Automated Testing**
 
-- know about [REST APIs and RESTful APIs]
-- gained experience through manual testing of APIs created for educational purposes
+- can write test-step and available to use robotframework.
+- Capable about locator and understand DOM in HTML language.
+- you can find my Automated web testing [this link].
+
+**API Testing** 
+
+- know about [REST APIs and RESTful APIs].
+- Capable of using Postman and HTTP methods for API testing.
+- have knowledge about REST and SOAP APIs, understanding the differences between both.
+- gained experience through manual testing of APIs created for educational purposes.
 
 **Programing**
 
-- have been study C# language and Java since high school
-- know about basic python and in process a python online course
-- know about basic HTML and CSS language and have [got certificated](https://drive.google.com/file/d/1QSuMA5uqxzyfqCLr9-Y0I7OPCO6FrWdk/view?usp=drive_link)
+- have been study C# language and Java since high school.
+- know about basic python and in process a python online course.
+- know how to use for-loop and while-loop in python.
+- know about basic HTML and CSS language prepare for learning javascript language.
 
 **SQL**
 
@@ -85,6 +94,11 @@ You can find [example of my works](https://github.com/kuamadee#example-of-my-wor
     - Test case for testing login page. [check the Google sheet here](https://docs.google.com/spreadsheets/d/1Aygei39xarpsRjKmj53MEyEEOI8mDxm2_uO9I0f9a4o/edit?usp=sharing)
     - Test case for testing register page. [check the Google sheet here](https://docs.google.com/spreadsheets/d/1PCMjjgeMmrfKmxsvycbvRTW6FhYuEuNdz_3xUzlHEs8/edit?usp=sharing)
     - black box testing techniques for a system that calculates the term's deposit interest. [check the Google sheet here](https://docs.google.com/spreadsheets/d/1lL82MaxnvUuGZPZyfk9rOsZzQdSMdGCj0J-FRQRILSk/edit?usp=sharing)
+
+### Automated testing use Robotframework
+
+- Login 
+
 
 ### Bug reports and work in JIRA
 
