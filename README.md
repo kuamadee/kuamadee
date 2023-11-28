@@ -23,7 +23,7 @@ I would be extremely happy to apply obtained knowledge to testing an operational
 
 # CV
 
-Download my CV [as a PDF here.]
+Download my CV [as a PDF here.]()
 
 # Skills
 
@@ -42,7 +42,6 @@ You can find [example of my works](https://github.com/kuamadee#example-of-my-wor
 
 - can write test-step and available to use robotframework.
 - Capable about locator and understand DOM in HTML language.
-- you can find my Automated web testing [this link].
 
 **API Testing** 
 
@@ -68,7 +67,9 @@ You can find [example of my works](https://github.com/kuamadee#example-of-my-wor
 - know how to read and create **use case diagram**
 - know how to read and create **sequence diagram**
 - know how to read and create **activity diagram**
-
+## Soft Skills
+** Work in Agile 
+**
 # Tools
 
 **Testrail**
@@ -97,7 +98,7 @@ You can find [example of my works](https://github.com/kuamadee#example-of-my-wor
 
 ### Automated testing use Robotframework
 
-- Login 
+- Login test execute using robotframwork [check the repository](https://github.com/kuamadee/automated-testing)
 
 
 ### Bug reports and work in JIRA
@@ -109,9 +110,12 @@ You can find [example of my works](https://github.com/kuamadee#example-of-my-wor
 - APIs created for educational purposes like [JSONplaceholder](https://jsonplaceholder.typicode.com/) and REQRES [check the PDF](https://drive.google.com/file/d/1qFSp3OYBziaZmQ2GbLqK1yNdTKi5YGZv/view?usp=drive_link)
 - practice testing GitHub API [check the PDF]
 
+### Learning Python Project
+- Blind auction project [check the repository]
+- Hangman project [check the repository]
+- ceasar cipher encoding project [check the repository]
+
 ### Mindmaps and diagrams
 - use-case diagram of Vending Machine. [check the image](https://drive.google.com/file/d/1BTqLp-PzgrVgZt2_eWzmibwT0d2lMupQ/view?usp=drive_link)
 - activity diagram of Vending Machine.[check the image](https://drive.google.com/file/d/1mB7kaYIBPXPyH-r9Mw6XbIkK_tuyxKzs/view?usp=drive_link)
-- sequence diagram of login system. [check the image]
-- Flow chart of stock taking for retail department. [check the image]
-- ativity diagram of pre-production team. [check the image]
+
