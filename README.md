@@ -23,7 +23,7 @@ I would be extremely happy to apply obtained knowledge to testing an operational
 
 # CV
 
-Download my CV [as a PDF here.]()
+Download my CV [as a PDF here.](https://drive.google.com/file/d/1PNo3u162Y_cTMWCHfIKx5eQX9OgGGrpx/view?usp=sharing)
 
 # Skills
 
