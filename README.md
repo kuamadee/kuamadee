@@ -21,10 +21,9 @@ Now, I wish to exploit my research and analytical skills in software testing. Cu
 
 I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — **to become a senior software tester in 3 years, and to gain experience to improve my skills to automated software tester** .
 
-# CV
+# Contact me
 
-Download my CV [as a PDF here.](https://drive.google.com/file/d/1PNo3u162Y_cTMWCHfIKx5eQX9OgGGrpx/view?usp=sharing)
-
+Connect with me on [linkedin](https://www.linkedin.com/in/kommet-khongmuang-b04a2019a/)
 # Skills
 
 You can find [example of my works](https://github.com/kuamadee#example-of-my-works) and explanation about the projects
