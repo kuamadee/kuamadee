@@ -66,9 +66,7 @@ You can find [example of my works](https://github.com/kuamadee#example-of-my-wor
 - know how to read and create **use case diagram**
 - know how to read and create **sequence diagram**
 - know how to read and create **activity diagram**
-## Soft Skills
-** Work in Agile 
-**
+
 # Tools
 
 **Testrail**
@@ -102,7 +100,7 @@ You can find [example of my works](https://github.com/kuamadee#example-of-my-wor
 
 ### Bug reports and work in JIRA
 
-- 
+** will update soon **
 
 ### API testing project using Postman
 
@@ -113,8 +111,4 @@ You can find [example of my works](https://github.com/kuamadee#example-of-my-wor
 - Blind auction project [check the repository]
 - Hangman project [check the repository]
 - ceasar cipher encoding project [check the repository]
-
-### Mindmaps and diagrams
-- use-case diagram of Vending Machine. [check the image](https://drive.google.com/file/d/1BTqLp-PzgrVgZt2_eWzmibwT0d2lMupQ/view?usp=drive_link)
-- activity diagram of Vending Machine.[check the image](https://drive.google.com/file/d/1mB7kaYIBPXPyH-r9Mw6XbIkK_tuyxKzs/view?usp=drive_link)
 
